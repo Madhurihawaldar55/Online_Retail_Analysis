@@ -1,6 +1,6 @@
-
-https://github.com/user-attachments/assets/8f2f77d7-0557-4502-bc4c-d9977b6446f5
 ## TATA INTERNSHIP-Case Study: Online Retail Analysis
+
+
 - ### TASK-1: Framing the Business Scenario
 - ##### Task Background:
 •	An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
@@ -15,7 +15,7 @@ For this task, you are only required to draft the questions. Make sure to think 
 You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
 
-- ##### Solution:
+- ##### Solution
 * ##### Questions of interest to the CEO
 1.	Which region is generating the highest revenue, and which region is generating the lowest?
 2.	What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
@@ -105,7 +105,7 @@ Before you can begin the analysis, make sure that the data is cleaned properly. 
 - The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 - ##### Question 4
 - The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
-   
+- Solution: <img width="992" height="512" alt="image" src="https://github.com/user-attachments/assets/3144c2e7-c8d9-492e-ba45-16024d469afa" />
 
 - ### TASK-4: Communicating Insights and Analysis
 - Task Background:
