@@ -106,8 +106,6 @@ Before you can begin the analysis, make sure that the data is cleaned properly. 
 - ##### Question 4
 - The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
    
-- SOLUTION: Online Retail Analisis.twbx
-
 
 - ### TASK-4: Communicating Insights and Analysis
 - Task Background:
@@ -115,14 +113,7 @@ Before you can begin the analysis, make sure that the data is cleaned properly. 
 •	Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business.
 •	Some resources to help guide you in communicating data effectively are provided in the resources section below.
 
-- ##### TASK:
-- Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
-You can use your work or the model answer from the previous task to develop your presentation.
-When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
-Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
-Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
 
-- ##### VIDEO:Presentation: Uploading video1879702371.mp4…
 
 
 
